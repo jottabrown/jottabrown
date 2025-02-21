@@ -3,13 +3,25 @@
 Sou Engenheiro de Machine Learning e Analista de Sistemas com experiência em MLOps, DevOps e CI/CD. Trabalho com Azure, Python e soluções de automação para empresas. Além disso, sou especialista em banco de dados Oracle, com sólido conhecimento em desenvolvimento de PLSQL, triggers, procedures e pacotes (pkg). Participei da maior migração de dados da venda da Oi Móvel para as operadoras TIM, Vivo e Claro, e de projetos complexos que envolveram automações entre sistemas como Oracle, Salesforce e SOM.
 
 ## ⚙️ Tecnologias e Ferramentas
-- **Linguagens**: Python, SQL, Oracle PLSQL, Javascript, Apex
-- **Cloud e DevOps**: Azure (ML, DevOps, ACR), Databricks
-- **Ferramentas**: SonarQube, Data Lake, Docker
-- **Metodologias**: Scrum, Kanban
+- **Linguagens**: 
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
+  - ![Oracle PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=flat&logo=oracle&logoColor=white)
+  - ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![Apex](https://img.shields.io/badge/Apex-0E0E0E?style=flat&logo=salesforce&logoColor=white)
+- **Cloud e DevOps**: 
+  - ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+  - ![Databricks](https://img.shields.io/badge/Databricks-FF6A00?style=flat&logo=databricks&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- **Ferramentas**: 
+  - ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+  - ![Data Lake](https://img.shields.io/badge/Data_Lake-0078D4?style=flat&logo=microsoft&logoColor=white)
+- **Metodologias**: 
+  - ![Scrum](https://img.shields.io/badge/Scrum-009CDE?style=flat&logo=scrum&logoColor=white)
+  - ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat&logo=trello&logoColor=white)
 
 ## 🚀 Projetos em Destaque
-- [Projeto 1](https://github.com/jottabrown/AzureMacnhineLearning): Pipeline de Machine Learning com Azure ML, configurando autenticação e monitoramento.
+- [Azure MLops](https://github.com/jottabrown/AzureMacnhineLearning): Pipeline de Machine Learning com Azure ML, configurando autenticação e monitoramento.
 
 
 ## 🎓 Certificações
