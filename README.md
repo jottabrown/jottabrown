@@ -20,8 +20,8 @@ Sou Engenheiro de Machine Learning e Analista de Sistemas com experiência em ML
   
 
 ## 📫 Entre em Contato
-- [LinkedIn](https://www.linkedin.com/in/jean-alves-6671a7105/)
-- [GitHub](https://github.com/jottabrown/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-alves-6671a7105/)
+- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521983377386)
 
 # Hello, I'm Jean! 👋
 
