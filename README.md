@@ -9,6 +9,10 @@ Sou Engenheiro de Machine Learning e Analista de Sistemas com experiência em ML
   - ![Oracle PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=flat&logo=oracle&logoColor=white)
   - ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   - ![Apex](https://img.shields.io/badge/Apex-0E0E0E?style=flat&logo=salesforce&logoColor=white)
+- **Bancos de Dados**:
+  - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  - ![SQL Server](https://img.shields.io/badge/SQL_Server-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
 - **Cloud e DevOps**: 
   - ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
   - ![Databricks](https://img.shields.io/badge/Databricks-FF6A00?style=flat&logo=databricks&logoColor=white)
